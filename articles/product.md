@@ -42,24 +42,19 @@ By understanding the women mentality in buying a car now we are more confident t
 
 ## Products and Features
 
-In order to have contestant design and user experience for all the Syarah website sections
-
-I want to declare that we will
- features will be build on top of Syarah website.
-
-So the features in syarah will be availabe in ()
-
-
 
 ### Search a car by it's image (Both)
 
-I  want to follow a lean product development approach to build this feature with minimum waste.
+Ever look at a vehicle and wonder what that car is? Let our machine learning algorithm analyze an image of a vehicle and return the available vehicles for sale to you. 
+
+We have a big feature here, in order to build it i want to follow a lean product development approach with minimal waste.
+
 
 The development will be in three phases based on the MVP testing results:
 
 
 1) Start with MVP Explainer technique.
-   -  we will build an animated video to market this feature for our customers and look for there feedback and comments.
+   -  we will create an animated video to market this feature for our customers and look for there feedback and comments.
    - Here we will collect qualitative data.
 
 2)  Build a **Shadow button**.
@@ -68,12 +63,13 @@ The development will be in three phases based on the MVP testing results:
 
      - Here we will collect a quantitative data.
 
-We will analyze the data and let's say the MVP test results were good.
+We will analyze the data and based on the minimum criteria of success that we established before we will take an action.
+
+let's say the MVP test results were good.
 
 3) We will start building the product.
      - Based on our large DB that contains millions of cars we will build an algorithm and use machine learning to identify the particular make, model, year, and body style of the car in the image.
 
-     - We might use an external API in the begging like [carsxe](https://api.carsxe.com/what-car-is-that).
 
 
 ### Categories specialized for women needs () (Dana)
@@ -81,7 +77,7 @@ We will analyze the data and let's say the MVP test results were good.
 يرى الخبراء وتؤكد الأرقام كذلك أن القيمة والتكاليف والسلامة والراحة هي أهم أولويات النساء
 
 
-- From the Owner (not from dealers)
+- Buy Directly from the owner (not from dealers)
 
 - High Safety Cars
 
@@ -90,7 +86,8 @@ We will analyze the data and let's say the MVP test results were good.
 
 ### UI and UX targeting women
 
-Marketing text, Call to actions, content will target females
+Marketing phrases, Call to actions, and content that specially designed to target females.
+
 
 ### Women customer service and sales team (Dana)
 
@@ -98,9 +95,12 @@ Marketing text, Call to actions, content will target females
 
 ### Operational Cost Report
 
-1) Spare parts average price ()
+1) Spare parts average price
+
 2) Fuel consumption
+
 3) average Insurance Cost
+
 4) How easy its is to find the car spare parts and the professional labor for car maintenance.
 
 
