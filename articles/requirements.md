@@ -130,9 +130,9 @@ In this Epic we will be adding Al-dana section to our website.
 
 - As a user I want to see the store success stories or success metrics to feel more comfortable with your services, and to see that the website is successful  and secure.
 
-- As a user i want to see fixed whats app icon to let me reach female sales and customer service team easily.
+- As a user i want to see fixed whats app icon at the bottom of the page to let me reach female sales and customer service team easily.
 
-  - Given I'm i user i want to click on the whats app icon to be redirected to a whats-app chat with customer service team.
+  - Given I'm i user i want to click on the whats app icon to be redirected to a whats-app chat with female sales and customer service team.
 
 - As a user, I want a clean, easy to use user interface so that I can use Syarah with confidence.
 
@@ -151,13 +151,15 @@ In this Epic we will be adding new features to inspected car details page to opt
 
   - Given i'm a user and i clicked again on the compare icon, i want to remove the car from compare vehicles page and re-render the icon with it's original color.
 
+  - Given i'm a user and i added three cars to compare page, i want to see the compare icon disabled on the other car pages so i can't add more than 3 vehicles.
+
 - As a user i want to know about the vehicle fuel consumption.
 
   - Given i'm a user i want to see a fuel icon with vehicle fuel consumption in the vehicle details section.
 
 - As a user i want to have a section showing the vehicle operational cost.
 
-  - Given i'm a user and i clicked on the vehicle operational cost, I want to see a card showing average insurance cost, average spare part prices, and how easy i can professional labor for car maintenance. (kindly check the [wireframe](https://miro.com/app/board/o9J_l5ztUiM=/))
+  - Given i'm a user and i clicked on the vehicle operational cost, I want to see a card showing average insurance cost, average spare part prices, and how easy i can find professional labor for car maintenance. (kindly check the [wireframe](https://miro.com/app/board/o9J_l5ztUiM=/))
 
 
 ### Page to Compare vehicles Epic
