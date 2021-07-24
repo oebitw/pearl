@@ -32,7 +32,7 @@ We will also add new features on our home page and car details page to enhance a
 
 - Educational section where user will be educated about Al-dana services, with a CTA button to contact women sales & customer services team.
 
-- Categories section display cards of our product categories, when the user hover on any card, animated Call to action button will appear to redirect the user to the product page.
+- Categories section display cards of our product categories, when the user hover on any card, animated description of the category & Call to action button will appear to redirect the user to the product page.
 
  
 - Car search section where women can search for vehicles by make, model and year.
@@ -58,6 +58,8 @@ We will also add new features on our home page and car details page to enhance a
 
 - Give the user the opportunity to see specifications of up to three vehicles and compare them. (check [wireframe](https://miro.com/app/board/o9J_l5ztUiM=/) for better vision)
 
+- CTA button to let the user book the car.
+
 
 ## Epics and user stories
 
@@ -77,6 +79,7 @@ Here we will add new features to the Home page to optimize online buying experie
 - As a user I want the burger menu to contain a compare icon to redirect me to compare vehicles page.
 
   - Given I'm a user and i clicked on the burger menu i want to see compare icon next to sign-up and sign in buttons to redirect me to compare vehicles page.
+
 
 - As a user I want to see dynamic hero images, and I want to read small descriptions on the images and a CTA button to navigate me to the important sections on the website.
 
@@ -125,7 +128,7 @@ In this Epic we will be adding Al-dana section to our website.
 
   - Given I'm a user I want to swipe the testimonials to right and left to read more feedbacks.
 
-- As a user I want to see the store success stories or success metrics to feel more comfortable with your services, and to see that the website is successful  and secure for online payments.
+- As a user I want to see the store success stories or success metrics to feel more comfortable with your services, and to see that the website is successful  and secure.
 
 - As a user i want to see fixed whats app icon to let me reach female sales and customer service team easily.
 
@@ -150,11 +153,11 @@ In this Epic we will be adding new features to inspected car details page to opt
 
 - As a user i want to know about the vehicle fuel consumption.
 
-  - Given i'm a user i want to see a fuel icon with average vehicle fuel consumption in the vehicle details section.
+  - Given i'm a user i want to see a fuel icon with vehicle fuel consumption in the vehicle details section.
 
 - As a user i want to have a section showing the vehicle operational cost.
 
-  - Given i'm a user and i clicked on the vehicle operational cost, I want to see a card showing average insurance cost, average spare part prices, and how easy i can professional labor for car maintenance. (kindly check the )
+  - Given i'm a user and i clicked on the vehicle operational cost, I want to see a card showing average insurance cost, average spare part prices, and how easy i can professional labor for car maintenance. (kindly check the [wireframe](https://miro.com/app/board/o9J_l5ztUiM=/))
 
 
 ### Page to Compare vehicles Epic
@@ -164,13 +167,19 @@ In this Epic we will be adding a new page to our website.
 
 This page will let the users compare between up to three vehicles specifications to take their buying decision smoothly.
 
-- As a user i want to see cards for the cars i selected to compare between them.
+#### User story
+
+- As a user i want to see cards for the cars i want to compare between them.
 
    - Given I'm a user and i added two cars to compare their specifications i want to see two cards with an image of each car, and the car make, model and production year.
 
-   - Given I'm a user i didn't add vehicles, I want to see a message stating there are no cars to compare and a CTA button to redirect user to the online car shop.
+   - Given I'm a user i didn't add vehicles, I want to see a message stating there are no cars to compare and a CTA button to redirect me to the online car shop.
 
 - As a user i want to have tabs in order to compare between cars different specifications like safety specifications, external and internal specifications, etc ... (kindly check [wireframe](https://miro.com/app/board/o9J_l5ztUiM=/) for a clear vision)
+
+
+- As a user i want to have a CTA button to book the vehicle.
+
 
 
 
